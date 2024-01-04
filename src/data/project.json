@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "kasa",
+      "description": "Kasa est une application de location immobilière qui souhaitait opérer une refonte totale de son site. J'ai développé l'ensemble de l'application, en gérant l'intégration des différents composants et les routes, via react-router, en respectant les maquettes proposées.",
+      "technologies": ["React", "React-router"],
+      "images": "src/assets/images/kasa.webp",
+      "vercelLink": "https://kasasite.netlify.app/"
+    },
+    {
+      "id": 2,
+      "title": "Nina Carducci",
+      "description": "Nina Carducci est une photographe dont le site avait besoin d'être optimisé. J'ai travaillé à l'amélioration des performances du site, ainsi qu'à la mise en place du référencement local et des métas données pour les réseaux sociaux. Un rapport d'optimisation a été établi.",
+      "technologies": ["SEO", "Lighthouse"],
+      "images": "src/assets/images/Nina.webp",
+      "vercelLink": "https://ninacarducci-photographe.vercel.app/"
+    },
+    {
+      "id": 3,
+      "title": "Sophie Bluel",
+      "description": "Nina Carducci est une photographe dont le site avait besoin d'être optimisé. J'ai travaillé à l'amélioration des performances du site, ainsi qu'à la mise en place du référencement local et des métas données pour les réseaux sociaux. Un rapport d'optimisation a été établi.",
+      "technologies": ["SEO", "Lighthouse"],
+      "images": "src/assets/images/Sophie-Bluel.webp",
+      "vercelLink": "https://sophie-bruel-architect.vercel.app/"
+    },
+    {
+      "id": 4,
+      "title": "Nina Carducci",
+      "description": "Nina Carducci est une photographe dont le site avait besoin d'être optimisé. J'ai travaillé à l'amélioration des performances du site, ainsi qu'à la mise en place du référencement local et des métas données pour les réseaux sociaux. Un rapport d'optimisation a été établi.",
+      "technologies": ["SEO", "Lighthouse"],
+      "images": "src/assets/images/ohmyfood.webp",
+      "vercelLink": "https://ninacarducci-photographe.vercel.app/"
+    },
+    {
+      "id": 5,
+      "title": "Nina Carducci",
+      "description": "Nina Carducci est une photographe dont le site avait besoin d'être optimisé. J'ai travaillé à l'amélioration des performances du site, ainsi qu'à la mise en place du référencement local et des métas données pour les réseaux sociaux. Un rapport d'optimisation a été établi.",
+      "technologies": ["SEO", "Lighthouse"],
+      "images": "src/assets/images/print-it.webp",
+      "vercelLink": "https://ninacarducci-photographe.vercel.app/"
+    }
+   
+  ]
+  
