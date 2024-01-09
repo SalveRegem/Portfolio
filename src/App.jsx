@@ -4,7 +4,6 @@ import Header from './Components/Header'
 import Footer from './Components/Footer'
 import ProjectList from './Components/ProjectCard'
 import Divider from './Components/Divider'
-import TextReveal from './Components/TextReveal'
 
 function App() {
   

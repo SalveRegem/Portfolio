@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
+
 const chars = "-_~`!@#$%^&*()+=[]{}|;:,.<>?";
 
 const TextEncrypted = ({ text, interval = 50 }) => {
@@ -40,7 +41,7 @@ const TextEncrypted = ({ text, interval = 50 }) => {
   }
 
   return (
-    <span className="text-white text-2xl flex justify-center font-bold ">
+    <span className="text-white text-lg flex justify-center font-bold pb-10 ">
       {outputText}
       {remainder}
     </span>
