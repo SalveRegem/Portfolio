@@ -10,7 +10,7 @@ const TextReveal = ({ text }) => {
   }, []);
 
   return (
-    <div className="flex justify-center overflow-hidden text-2xl font-bold bg-slate-900 text-slate-200 px-6 color">
+    <div className="flex justify-center overflow-hidden text-2xl font-bold bg-inherit text-slate-200 px-6 color">
       <p className="animate-text-reveal inline-block opacity-0">
         {text}
       </p>
