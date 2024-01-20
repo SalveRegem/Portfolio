@@ -17,26 +17,26 @@
     },
     {
       "id": 3,
-      "title": "Sophie Bluel",
+      "title": "OhMyFood",
       "description": "Nina Carducci est une photographe dont le site avait besoin d'être optimisé. J'ai travaillé à l'amélioration des performances du site, ainsi qu'à la mise en place du référencement local et des métas données pour les réseaux sociaux. Un rapport d'optimisation a été établi.",
       "technologies": ["SEO", "Lighthouse"],
-      "images": "project-image/Sophie-Bluel.webp",
+      "images": "src/assets/images/Sophie-Bluel.webp",
       "vercelLink": "https://sophie-bruel-architect.vercel.app/"
     },
     {
       "id": 4,
-      "title": "Nina Carducci",
+      "title": "Booki",
       "description": "Nina Carducci est une photographe dont le site avait besoin d'être optimisé. J'ai travaillé à l'amélioration des performances du site, ainsi qu'à la mise en place du référencement local et des métas données pour les réseaux sociaux. Un rapport d'optimisation a été établi.",
       "technologies": ["SEO", "Lighthouse"],
-      "images": "project-image/ohmyfood.webp",
+      "images": "src/assets/images/ohmyfood.webp",
       "vercelLink": "https://ninacarducci-photographe.vercel.app/"
     },
     {
       "id": 5,
-      "title": "Nina Carducci",
+      "title": "Print-it",
       "description": "Nina Carducci est une photographe dont le site avait besoin d'être optimisé. J'ai travaillé à l'amélioration des performances du site, ainsi qu'à la mise en place du référencement local et des métas données pour les réseaux sociaux. Un rapport d'optimisation a été établi.",
       "technologies": ["SEO", "Lighthouse"],
-      "images": "project-image/print-it.webp",
+      "images": "src/assets/images/print-it.webp",
       "vercelLink": "https://ninacarducci-photographe.vercel.app/"
     }
    
